@@ -4,6 +4,7 @@ public class Homework1 {
     public static void main(String[] args) {
 
         String name = "Rinat";
+        String name2 = "Dima";
         System.out.println(name);
 
     }
